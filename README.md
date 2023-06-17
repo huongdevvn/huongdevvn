@@ -4,11 +4,15 @@
 
 ### :woman_technologist: &nbsp;About Me
 
-I'm Huong Nguyen. A Front-end Engineer based in Ho Chi Minh City, Vietnam. 
-- 🔭 6+ years of experience in a variety of products and technologies from Crypto Trading Platform to FinTech, eCommerce, and Healthcare Platform...
-- ❤️ I love to write code in a high-paced and challenging environment with an emphasis on using best practices to develop high-quality products. I enjoy learning new technologies and share knowledge with the rest of the team.
-- ⚡ In my free time I like cooking, playing with my son and i taking care of 3 cute cats. ^_^
-- 📫 How to reach me: huonghk.uit@gmail.com
+'m Huong Nguyen, a skilled Front-end Engineer based in Ho Chi Minh City, Vietnam.
+
+🔭 With 6+ years of experience, I've worked on diverse projects ranging from Crypto Trading Platforms to FinTech, eCommerce, and Healthcare Platforms.
+
+❤️ I thrive in high-paced, challenging environments, prioritizing best practices to develop top-quality products. I'm passionate about learning new technologies and sharing knowledge with my team.
+
+⚡ In my free time, I enjoy cooking, spending time with my son, and caring for three adorable cats. ^_^
+
+📫 Contact me at huonghk.uit@gmail.com. I'm open to connecting with professionals, exploring opportunities, and collaborating on exciting projects.
 
 ---
 

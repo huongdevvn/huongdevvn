@@ -4,7 +4,7 @@
 
 ### :woman_technologist: &nbsp;About Me
 
-I'm Huong Nguyen, a skilled Front-end Engineer based in Ho Chi Minh City, Vietnam.
+I'm Huong Nguyen, a Front-end Engineer based in Ho Chi Minh City, Vietnam.
 
 🔭 With 6+ years of experience, I've worked on diverse projects ranging from Crypto Trading Platforms to FinTech, eCommerce, and Healthcare Platforms.
 

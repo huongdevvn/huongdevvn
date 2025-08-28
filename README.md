@@ -6,7 +6,7 @@
 
 I'm Huong Nguyen, a Front-end Engineer based in Ho Chi Minh City, Vietnam.
 
-🔭 With 8+ years of experience, I've worked on diverse projects ranging from Crypto Trading Platforms to FinTech, eCommerce, Real Estate Management Platform and Healthcare Platform.
+🔭 With 9 years of experience, I've worked on diverse projects ranging from Crypto Trading Platforms to FinTech, eCommerce, Real Estate Management Platform and Healthcare Platform.
 
 ❤️ I thrive in high-paced, challenging environments, prioritizing best practices to develop top-quality products. I'm passionate about learning new technologies and sharing knowledge with my team.
 
